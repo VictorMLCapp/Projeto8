@@ -11,7 +11,7 @@ body{
 
 }
 p{
-    background-image: linear-gradient(to right, yellow,forestgreen);
+    background-image: linear-gradient(to right, crimson,orange);
     font-size: 2rem;
     text-transform: uppercase;
     display:flex; 
